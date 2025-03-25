@@ -21,8 +21,8 @@ Clone this repository:
 sh
 Copy
 Edit
-git clone https://github.com/your-username/ai-image-generator.git  
-cd ai-image-generator  
+git clone https://github.com/Shreyash-Singh001/Text-to-Image-Generator.git  
+cd Text-to-Image-Generator  
 Open index.html in a browser.
 
 Enter a text prompt and generate an image!
